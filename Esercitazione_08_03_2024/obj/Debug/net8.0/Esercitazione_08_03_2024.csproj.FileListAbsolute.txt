@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\bin\Debug\net8.0\Esercitazione_08_03_2024.exe
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\bin\Debug\net8.0\Esercitazione_08_03_2024.deps.json
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\bin\Debug\net8.0\Esercitazione_08_03_2024.runtimeconfig.json
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\bin\Debug\net8.0\Esercitazione_08_03_2024.dll
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\bin\Debug\net8.0\Esercitazione_08_03_2024.pdb
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\obj\Debug\net8.0\Esercitazione_08_03_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\obj\Debug\net8.0\Esercitazione_08_03_2024.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\obj\Debug\net8.0\Esercitazione_08_03_2024.AssemblyInfo.cs
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\obj\Debug\net8.0\Esercitazione_08_03_2024.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\obj\Debug\net8.0\Esercitazione_08_03_2024.dll
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\obj\Debug\net8.0\refint\Esercitazione_08_03_2024.dll
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\obj\Debug\net8.0\Esercitazione_08_03_2024.pdb
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\obj\Debug\net8.0\Esercitazione_08_03_2024.genruntimeconfig.cache
+C:\Users\Utente\source\repos\Esercitazione_08_03_2024\Esercitazione_08_03_2024\obj\Debug\net8.0\ref\Esercitazione_08_03_2024.dll
