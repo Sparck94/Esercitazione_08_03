@@ -6,9 +6,6 @@ CREATE TABLE Albergo(
 	Indirizzo VARCHAR(250) NOT NULL,
 	Valutazione INT NOT NULL CHECK (Valutazione BETWEEN 1 AND 5)
 );
-
-
-
 CREATE TABLE Facility(
 	facilityID INT PRIMARY KEY IDENTITY (1,1),
 	Nome VARCHAR(250) NOT NULL,
@@ -17,8 +14,6 @@ CREATE TABLE Facility(
 	albergoRIF INT NOT NULL,
 	FOREIGN KEY (albergoRIF) REFERENCES Albergo(albergoID)
 );
-
-
 CREATE TABLE Dipendente(
 	dipendenteID INT PRIMARY KEY IDENTITY (1,1),
 	Nome VARCHAR(50) NOT NULL,
@@ -29,7 +24,6 @@ CREATE TABLE Dipendente(
 	albergoRIF INT NOT NULL,
 	FOREIGN KEY (albergoRIF) REFERENCES Albergo(albergoID)
 );
-
 CREATE TABLE Camera(
 	cameraID INT PRIMARY KEY IDENTITY (1,1),
 	Num_unico INT NOT NULL,
@@ -39,7 +33,6 @@ CREATE TABLE Camera(
 	albergoRIF INT NOT NULL,
 	FOREIGN KEY (albergoRIF) REFERENCES Albergo(albergoID)
 );
-
 CREATE TABLE Cliente(
 	clienteID INT PRIMARY KEY IDENTITY (1,1),
 	Nome VARCHAR(250) NOT NULL,
@@ -47,7 +40,6 @@ CREATE TABLE Cliente(
 	Telefono VARCHAR(16) NOT NULL,
 	Email VARCHAR(50) NOT NULL
 );
-
 CREATE TABLE Prenotazione(
 	prenotazioneID INT PRIMARY KEY IDENTITY (1,1),
 	Check_in VARCHAR(100) NOT NULL,
