@@ -216,7 +216,7 @@ CREATE PROCEDURE updateMovieSchedule
 	@idSpettacolo INT,
 	@idFilm INT,
 	@idDataSpettacolo VARCHAR(10),
-	@idTheater INT NOT NULL,
+	@idTheater INT,
 	@prezzo DECIMAL(5,2),
 	@azione VARCHAR(50)
 AS
@@ -248,5 +248,11 @@ BEGIN
 		PRINT 'Errore ' + ERROR_MESSAGE();
 	END CATCH
 END;
-	
+EXEC updateMovieSchedule
+	@IdSpettacolo = 3,
+	@IdFilm = 4,
+	@IdDataSpettacolo = '2024-03-16 18:00:00',
+	@IdTheater = 1,
+	@Prezzo = 10.50,
+	@Azione = 'Aggiungi';
 
