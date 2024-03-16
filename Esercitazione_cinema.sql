@@ -178,27 +178,27 @@ DROP PROCEDURE IF EXISTS purchaseTicket;
 CREATE PROCEDURE purchaseTicket
 	@idShowtime INT,
 	@numPosto VARCHAR(10),
-	@dataAcquisto DATETIME,
 	@idCliente INT
 AS
 BEGIN
 	BEGIN TRY
 		BEGIN TRANSACTION
-			IF EXISTS ( SELECT 1 FROM Ticket WHERE @idShowtime = ShowtimeID)
+			IF EXISTS ( SELECT * FROM Ticket WHERE ShowtimeID = @idShowtime AND SeatNumber = @numPosto)
 				THROW 50001, 'Posto non disponibile', 1
-			ELSE 
-				BEGIN
-					INSERT INTO Ticket(ShowtimeID,SeatNumber,PurchasedDateTime,CustomerID) VALUES
-						(@idShowtime, @numPosto, @dataAcquisto, @idCliente)
-					PRINT 'Il biglietto è stato inserito con successo';
-
-				END
-		COMMIT TRANSACTION
+			
+				
+			
+			INSERT INTO Ticket(ShowtimeID,SeatNumber,PurchasedDateTime,CustomerID) VALUES
+				(@idShowtime, @numPosto, GETDATE(), @idCliente)
+			PRINT 'Il biglietto è stato inserito con successo';
+		COMMIT TRANSACTION;
 	END TRY
 	BEGIN CATCH
-		ROLLBACK TRANSACTION
-		PRINT 'Errore qualcosa è andato storto' + ERROR_MESSAGE();
+		ROLLBACK TRANSACTION;
+		PRINT 'Errore qualcosa è andato storto: ' + ERROR_MESSAGE();
 	END CATCH
 END;
-EXEC purchaseTicket @idShowtime = 1, @numPosto = 'A1',@dataAcquisto ='2024-03-01 15:30:00', @idCliente = 2;
+EXEC purchaseTicket @idShowtime = 1, @numPosto = 'A1', @idCliente = 2;
+SELECT * FROM Ticket;
+
 
