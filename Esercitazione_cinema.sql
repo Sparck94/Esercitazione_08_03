@@ -201,4 +201,52 @@ END;
 EXEC purchaseTicket @idShowtime = 1, @numPosto = 'A1', @idCliente = 2;
 SELECT * FROM Ticket;
 
+/*
+Implementare una stored procedure UpdateMovieSchedule che permetta di aggiornare gli orari
+degli spettacoli per un determinato film. Questo include la possibilità di aggiungere o rimuovere
+spettacoli dall'agenda.
+*/
+INSERT INTO Showtime (ShowtimeID, MovieID, TheaterID, ShowDateTime, Price)
+VALUES
+(1, 1, 1, '2024-03-2 18:00:00', 10.00),
+(2, 2, 3, '2024-03-2 20:00:00', 12.50),
+(3, 3, 2, '2024-03-2 19:30:00', 11.00);
+
+CREATE PROCEDURE updateMovieSchedule
+	@idSpettacolo INT,
+	@idFilm INT,
+	@idDataSpettacolo VARCHAR(10),
+	@idTheater INT NOT NULL,
+	@prezzo DECIMAL(5,2),
+	@azione VARCHAR(50)
+AS
+BEGIN
+	BEGIN TRY
+		BEGIN TRANSACTION
+			IF @azione = 'Aggiungi'
+				INSERT INTO Showtime(ShowtimeID, MovieID, TheaterID, ShowDateTime, Price) VALUES
+				(@idSpettacolo, @idFilm, @idTheater, @idDataSpettacolo, @prezzo)
+				PRINT 'Spettacolo inserito con successo'
+			IF @azione = 'Rimuovi'
+				DELETE FROM Showtime
+				WHERE ShowtimeID = @idSpettacolo
+				PRINT 'Spettacolo rimosso con successo'
+			IF @azione = 'Aggiorna'
+				UPDATE Showtime
+				SET ShowDateTime = @idDataSpettacolo,
+				Price = @prezzo
+				WHERE ShowtimeID = @idSpettacolo
+				PRINT 'Spettacolo aggiornato con successo'
+			IF @azione <> ('Aggiungi') 
+			OR @azione <> ('Rimuovi')
+			OR @azione <> ('Aggiorna')
+			THROW 50001, 'Errore qualcosa è andato storto',1
+		COMMIT TRANSACTION
+	END TRY
+	BEGIN CATCH
+		ROLLBACK TRANSACTION
+		PRINT 'Errore ' + ERROR_MESSAGE();
+	END CATCH
+END;
+	
 
