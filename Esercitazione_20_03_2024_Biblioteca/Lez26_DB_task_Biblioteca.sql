@@ -1,0 +1,24 @@
+-- DDL
+CREATE TABLE Utente(
+	utenteId INT PRIMARY KEY IDENTITY (1,1),
+	nome VARCHAR(250) NOT NULL,
+	cognome VARCHAR(250) NOT NULL,
+	email VARCHAR(250) UNIQUE
+);
+
+CREATE TABLE Libro (
+	libroId INT PRIMARY KEY IDENTITY(1,1),
+	titolo VARCHAR(250) NOT NULL,
+	annoPub DATE NOT NULL,
+	isDisponibile BIT NOT NULL
+);
+
+CREATE TABLE Prestiti(
+	prestitiId INT PRIMARY KEY IDENTITY(1,1),
+	dataPrestito DATE NOT NULL,
+	dataRitorno DATE,
+	utenteRIF INT NOT NULL,
+	libroRIF INT NOT NULL,
+	FOREIGN KEY (utenteRIF) REFERENCES Utente(utenteId),
+	FOREIGN KEY (libroRIF) REFERENCES Libro(libroId),
+);
