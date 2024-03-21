@@ -40,9 +40,9 @@ namespace acc_lez26_biblioteca_task.DAL
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = con;
                 cmd.CommandText = "INSERT INTO Libro (titolo, annoPub, isDisponibile) VALUES (@titolo, @annoPub, @isDisp)";
-                cmd.Parameters.AddWithValue("nome", lib.Titolo);
-                cmd.Parameters.AddWithValue("descrizione", lib.AnnoPubblicazione);
-                cmd.Parameters.AddWithValue("prezzo", lib.isDisponibile);
+                cmd.Parameters.AddWithValue("titolo", lib.Titolo);
+                cmd.Parameters.AddWithValue("annoPub", lib.AnnoPubblicazione);
+                cmd.Parameters.AddWithValue("isDisp", lib.isDisponibile);
 
                 try
                 {

@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\dal\\libridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\dal\\libridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +39,8 @@
       "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|c:\\users\\utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA66BF9-3814-4C49-A49B-A3F44E7E42A8}|acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj|solutionrelative:acc_lez26_biblioteca_task\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appSettings.json",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\appSettings.json",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\appSettings.json",
@@ -62,12 +62,11 @@
               "RelativeToolTip": "acc_lez26_biblioteca_task\\appSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-20T15:18:06.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T15:18:06.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\Utilities\\Config.cs",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\Utilities\\Config.cs",
@@ -75,12 +74,11 @@
               "RelativeToolTip": "acc_lez26_biblioteca_task\\Utilities\\Config.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAA2wBwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:14:29.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T15:14:29.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Prestito.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\Models\\Prestito.cs",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\Models\\Prestito.cs",
@@ -88,12 +86,11 @@
               "RelativeToolTip": "acc_lez26_biblioteca_task\\Models\\Prestito.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:05:25.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T15:05:25.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PrestitoDAL.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\DAL\\PrestitoDAL.cs",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\DAL\\PrestitoDAL.cs",
@@ -106,33 +103,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UtenteDAL.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\DAL\\UtenteDAL.cs",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\DAL\\UtenteDAL.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\DAL\\UtenteDAL.cs",
               "RelativeToolTip": "acc_lez26_biblioteca_task\\DAL\\UtenteDAL.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAcwCQAAABsAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T15:01:07.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LibriDAL.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\DAL\\LibriDAL.cs",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\DAL\\LibriDAL.cs",
               "ToolTip": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\DAL\\LibriDAL.cs",
               "RelativeToolTip": "acc_lez26_biblioteca_task\\DAL\\LibriDAL.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAIBAwD8AAAAdAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwCwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T14:57:29.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IDal.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\DAL\\IDal.cs",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\DAL\\IDal.cs",
@@ -145,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Utente.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\Models\\Utente.cs",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\Models\\Utente.cs",
@@ -158,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\Models\\Libro.cs",
@@ -171,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\Program.cs",
               "RelativeDocumentMoniker": "acc_lez26_biblioteca_task\\Program.cs",
@@ -179,8 +176,7 @@
               "RelativeToolTip": "acc_lez26_biblioteca_task\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:35:31.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:35:31.123Z"
             }
           ]
         }

@@ -36,8 +36,8 @@ namespace acc_lez26_biblioteca_task.DAL
                 cmd.Connection = con;
                 cmd.CommandText = "INSERT INTO Utente (nome, cognome, email) VALUES (@nome, @cognome, @email)";
                 cmd.Parameters.AddWithValue("nome", ut.Nome);
-                cmd.Parameters.AddWithValue("descrizione", ut.Cognome);
-                cmd.Parameters.AddWithValue("prezzo", ut.Email);
+                cmd.Parameters.AddWithValue("cognome", ut.Cognome);
+                cmd.Parameters.AddWithValue("email", ut.Email);
 
                 try
                 {
