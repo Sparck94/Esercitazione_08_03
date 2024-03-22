@@ -1024,11 +1024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\esercitazione_08_03\\Esercitazione_20_03_2024_Biblioteca\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj",
       "projectName": "acc_lez26_biblioteca_task",
-      "projectPath": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\esercitazione_08_03\\Esercitazione_20_03_2024_Biblioteca\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\esercitazione_08_03\\Esercitazione_20_03_2024_Biblioteca\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

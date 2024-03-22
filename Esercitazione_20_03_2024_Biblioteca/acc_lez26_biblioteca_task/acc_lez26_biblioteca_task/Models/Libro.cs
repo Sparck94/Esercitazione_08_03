@@ -11,8 +11,10 @@ namespace acc_lez26_biblioteca_task.Models
     {
         public int LibroID { get; set; }
         public string? Titolo { get; set; }
-        public Date AnnoPubblicazione { get; set; }
+        public int AnnoPubblicazione { get; set; }
         public bool isDisponibile { get; set; }
+        public string? Isbn { get; set; }
+        public List<Prestito> MyProperty { get; set; }
 
         public Libro() 
         {

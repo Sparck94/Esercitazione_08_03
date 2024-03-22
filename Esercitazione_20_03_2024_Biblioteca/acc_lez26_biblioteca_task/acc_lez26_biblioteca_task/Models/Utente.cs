@@ -12,6 +12,11 @@ namespace acc_lez26_biblioteca_task.Models
         public string? Nome { get; set; }
         public string? Cognome { get; set; }
         public string? Email { get; set; }
+        public string? Codice { get; set; }
+
+        //Non serve il SOFT DELETE
+
+        public List<Prestito> ElencoPrestiti { get; set; } = new List<Prestito>();
 
         public Utente() 
         {

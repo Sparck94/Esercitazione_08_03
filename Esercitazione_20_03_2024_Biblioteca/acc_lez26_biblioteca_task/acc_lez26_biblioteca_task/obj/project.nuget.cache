@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o+gFYSIf7KCqHgZBqikO/91fXVBvnMwwQeZ43do/d2dzBqaK36vnsqud1dtpjxHUTfWReKRgTy+3n3Monw2K9Q==",
+  "dgSpecHash": "VNWTSujPZDpzKs0HlvCRbGZsUmjf2os5Mh7QUBXT6JIkh6GLhGylDMFnUq1+gdKWW8qqpFuFajfYcw8KSDK9Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\source\\repos\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\esercitazione_08_03\\Esercitazione_20_03_2024_Biblioteca\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task\\acc_lez26_biblioteca_task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
