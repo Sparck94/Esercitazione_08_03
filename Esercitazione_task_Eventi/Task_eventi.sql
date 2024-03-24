@@ -2,6 +2,7 @@
 DROP TABLE IF EXISTS Risorsa;
 DROP TABLE IF EXISTS Partecipante;
 DROP TABLE IF EXISTS Evento;
+USE task_eventi;
 
 CREATE TABLE Evento(
 	eventoID INT PRIMARY KEY IDENTITY(1,1),
@@ -35,3 +36,5 @@ CREATE TABLE Risorsa(
 	deleted DATETIME
 );
 SELECT * FROM Evento;
+SELECT * FROM Partecipante;
+SELECT * FROM Risorsa;
