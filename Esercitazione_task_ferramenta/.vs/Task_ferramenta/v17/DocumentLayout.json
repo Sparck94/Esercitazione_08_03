@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\Task_ferramenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A73BC15-4204-4DBA-B2EE-E7AE742A9740}|Task_ferramenta\\Task_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_ferramenta\\task_ferramenta\\models\\taskferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A73BC15-4204-4DBA-B2EE-E7AE742A9740}|Task_ferramenta\\Task_ferramenta.csproj|solutionrelative:task_ferramenta\\models\\taskferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A73BC15-4204-4DBA-B2EE-E7AE742A9740}|Task_ferramenta\\Task_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_ferramenta\\task_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A73BC15-4204-4DBA-B2EE-E7AE742A9740}|Task_ferramenta\\Task_ferramenta.csproj|solutionrelative:task_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A73BC15-4204-4DBA-B2EE-E7AE742A9740}|Task_ferramenta\\Task_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_ferramenta\\task_ferramenta\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A73BC15-4204-4DBA-B2EE-E7AE742A9740}|Task_ferramenta\\Task_ferramenta.csproj|solutionrelative:task_ferramenta\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A73BC15-4204-4DBA-B2EE-E7AE742A9740}|Task_ferramenta\\Task_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_ferramenta\\task_ferramenta\\repositories\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A73BC15-4204-4DBA-B2EE-E7AE742A9740}|Task_ferramenta\\Task_ferramenta.csproj|solutionrelative:task_ferramenta\\repositories\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdottoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_ferramenta\\Task_ferramenta\\Repositories\\ProdottoRepo.cs",
+              "RelativeDocumentMoniker": "Task_ferramenta\\Repositories\\ProdottoRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_ferramenta\\Task_ferramenta\\Repositories\\ProdottoRepo.cs",
+              "RelativeToolTip": "Task_ferramenta\\Repositories\\ProdottoRepo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:52:26.38Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_ferramenta\\Task_ferramenta\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "Task_ferramenta\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_ferramenta\\Task_ferramenta\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "Task_ferramenta\\Repositories\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:09:08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_ferramenta\\Task_ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "Task_ferramenta\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_ferramenta\\Task_ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "Task_ferramenta\\Controllers\\ProdottoController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:01:53.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskFerramentaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_ferramenta\\Task_ferramenta\\Models\\TaskFerramentaContext.cs",
+              "RelativeDocumentMoniker": "Task_ferramenta\\Models\\TaskFerramentaContext.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_ferramenta\\Task_ferramenta\\Models\\TaskFerramentaContext.cs",
+              "RelativeToolTip": "Task_ferramenta\\Models\\TaskFerramentaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:50:08.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
