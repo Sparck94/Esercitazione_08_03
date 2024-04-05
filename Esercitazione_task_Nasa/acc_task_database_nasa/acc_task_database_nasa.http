@@ -1,0 +1,6 @@
+@acc_task_database_nasa_HostAddress = http://localhost:5137
+
+GET {{acc_task_database_nasa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
