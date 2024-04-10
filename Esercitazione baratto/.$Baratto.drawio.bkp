@@ -1,0 +1,57 @@
+<mxfile host="Electron" modified="2024-04-10T13:13:18.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="QFBDSXVfAHWhENXBI1YE" version="23.1.5" type="device">
+  <diagram name="Pagina-1" id="Y7BSf2uQXhjuNO748zRW">
+    <mxGraphModel dx="1050" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-1" value="- nominativo? string&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- codice? string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- List&amp;lt;Oggetto&amp;gt;? List&amp;lt;Oggetto&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- List&amp;lt;Proposta&amp;gt;? List&amp;lt;Proposta&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="234" y="210" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="nFypYB_9Pbs6PFqrEm1g-2" target="nFypYB_9Pbs6PFqrEm1g-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-2" value="Persona" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="180" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-4" value="+ proposta()&lt;br&gt;+ aggiungiOggetto()&lt;br&gt;+ rimuoviOggetto()&lt;br&gt;+ gestisciProposta" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="234" y="290" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-5" value="- codice? string&lt;br&gt;- nome? string&lt;br&gt;- descrizione? string&lt;br&gt;- proprietario? Persona" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=diamondThin;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFypYB_9Pbs6PFqrEm1g-6" target="nFypYB_9Pbs6PFqrEm1g-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-6" value="Oggetto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-7" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-13" value="- id? number&lt;br&gt;- proposta" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="244" y="-80" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-14" value="Transazione" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="-110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-15" value="+ registraTransazione()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="244" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-16" value="- codice? string&lt;br&gt;- offerente? Persona&lt;br&gt;- ricevente? Persona&lt;br&gt;- oggetto? Oggetto&lt;br&gt;- stato bool" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="nFypYB_9Pbs6PFqrEm1g-17" target="nFypYB_9Pbs6PFqrEm1g-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-17" value="Proposta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nFypYB_9Pbs6PFqrEm1g-18" value="+ registraTransazione()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
