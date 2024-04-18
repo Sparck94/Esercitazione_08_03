@@ -1,0 +1,39 @@
+﻿@model List<acc_task_gestione_impiegati.Models.Impiegato>
+
+<h1>Lista degli impiegati</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Matricola</th>
+            <th>Nome</th>
+            <th>Cognome</th>
+            <th>Data di nascita</th>
+            <th>Ruolo</th>
+            <th>Reparto</th>
+            <th>Indirizzo di residenza</th>
+            <th>Provincia di residenza</th>
+            <th>Città di residenza</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Impiegato imp in Model)
+        {
+            <tr>
+                <td>@imp.Matricola</td>
+                <td>@imp.Nome</td>
+                <td>@imp.Cognome</td>
+                <td>@imp.DataNascita</td>
+                <td>@imp.Ruolo</td>
+                <td>@imp.Reparto</td>
+                <td>@imp.IndirizzoResidenza</td>
+                <td>@imp.ProvinciaResidenza</td>
+                <td>@imp.CittaResidenza</td>
+                <td>
+                    <button class="btn btn-danger" type="button" onclick="elimina('@imp.Matricola')">Elimina</button>
+                    <a class="btn btn-warning" href="/Impiegato/Modifica/@imp.Matricola">Modifica</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\acc_task_gestione_impiegati.props" />
+</Project>

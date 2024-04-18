@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|c:\\users\\utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\repositories\\impiegatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|solutionrelative:acc_task_gestione_impiegati\\repositories\\impiegatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|c:\\users\\utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|solutionrelative:acc_task_gestione_impiegati\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|c:\\users\\utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\views\\impiegato\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|solutionrelative:acc_task_gestione_impiegati\\views\\impiegato\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|c:\\users\\utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|solutionrelative:acc_task_gestione_impiegati\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|c:\\users\\utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\views\\impiegato\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|solutionrelative:acc_task_gestione_impiegati\\views\\impiegato\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|c:\\users\\utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|solutionrelative:acc_task_gestione_impiegati\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|c:\\users\\utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BAB2D-CB4B-48D6-8A1B-CB2DE59D93E7}|acc_task_gestione_impiegati\\acc_task_gestione_impiegati.csproj|solutionrelative:acc_task_gestione_impiegati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImpiegatoService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Services\\ImpiegatoService.cs",
+              "RelativeDocumentMoniker": "acc_task_gestione_impiegati\\Services\\ImpiegatoService.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Services\\ImpiegatoService.cs",
+              "RelativeToolTip": "acc_task_gestione_impiegati\\Services\\ImpiegatoService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:54:30.308Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Views\\Impiegato\\Lista.cshtml",
+              "RelativeDocumentMoniker": "acc_task_gestione_impiegati\\Views\\Impiegato\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Views\\Impiegato\\Lista.cshtml",
+              "RelativeToolTip": "acc_task_gestione_impiegati\\Views\\Impiegato\\Lista.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:45:21.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImpiegatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Controllers\\ImpiegatoController.cs",
+              "RelativeDocumentMoniker": "acc_task_gestione_impiegati\\Controllers\\ImpiegatoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Controllers\\ImpiegatoController.cs",
+              "RelativeToolTip": "acc_task_gestione_impiegati\\Controllers\\ImpiegatoController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:02:30.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "acc_task_gestione_impiegati\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "acc_task_gestione_impiegati\\Repositories\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:45:16.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Program.cs",
+              "RelativeDocumentMoniker": "acc_task_gestione_impiegati\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Program.cs",
+              "RelativeToolTip": "acc_task_gestione_impiegati\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:50:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inserimento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Views\\Impiegato\\Inserimento.cshtml",
+              "RelativeDocumentMoniker": "acc_task_gestione_impiegati\\Views\\Impiegato\\Inserimento.cshtml",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Views\\Impiegato\\Inserimento.cshtml",
+              "RelativeToolTip": "acc_task_gestione_impiegati\\Views\\Impiegato\\Inserimento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:10:41.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImpiegatoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Repositories\\ImpiegatoRepo.cs",
+              "RelativeDocumentMoniker": "acc_task_gestione_impiegati\\Repositories\\ImpiegatoRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\acc_task_gestione_impiegati\\acc_task_gestione_impiegati\\Repositories\\ImpiegatoRepo.cs",
+              "RelativeToolTip": "acc_task_gestione_impiegati\\Repositories\\ImpiegatoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:47:16.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
